@@ -6,10 +6,8 @@ package CapaNegocio;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Alex
- */
+//Autor:Alexa
+
 public class colaCircular {
     // ColaCircular.java
 
